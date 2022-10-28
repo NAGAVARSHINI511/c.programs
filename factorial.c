@@ -6,7 +6,6 @@ int main(void) {
   printf("Enter the number\n");
   scanf("%d", &n);
   printf("\nThe Factorial of %d is %ld", n, ajfact(n));
-  return 0;
 }
 long int ajfact(int n) {
   if (n <= 1)
