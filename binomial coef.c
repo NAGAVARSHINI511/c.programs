@@ -8,7 +8,7 @@ if(n<0 || r<0 || n<r)
 printf("Invalid Input");
 else
 {
-  binom =factorial(n)/(factorial(r)*factorial(n-r));
+  binom =factorial(n)/(factorial(r)*factorial(n-r));  #binomial coefficient=n!/r!*(n-r)!
 printf("Result = %d",binom);
 
 }
