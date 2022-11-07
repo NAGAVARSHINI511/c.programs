@@ -5,7 +5,7 @@ int main(void) {
   char str[100];
   printf("enter the string");
   scanf("%s", str);
-  len = length(str);
+  len = length(str); //function length() counts the number of letters and returns it
   printf("the length of string is %d", len);
   return 0;
 }
