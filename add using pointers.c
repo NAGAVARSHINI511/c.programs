@@ -15,5 +15,5 @@ int main(void) {
     int *pa = &a, *pb = &b;
     update(pa, pb);
     printf("%d\n%d", a, b);
-  
+  return 0;
 }
