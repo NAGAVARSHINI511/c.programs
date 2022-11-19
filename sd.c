@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<math.h>
 
 int main(void) {
   float sum = 0, sumvar = 0, a[50], var, sd, mean;
