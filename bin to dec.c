@@ -13,5 +13,5 @@ int bintodec(int n)
   if(n==0)
     return 0;
   else
-    return(n%10+bintodec(n/10)*2);
+    return(n%10+bintodec(n/10)*2  //recirsion function
 }
