@@ -20,5 +20,5 @@ int main(void) {
     trace = trace + A[i][i];   #trace is the sum of diagonal elements of an matrix 
   }
   printf("Trace of the matrix is = %d\n", trace);
-  return 0;
+  
 }
