@@ -1,3 +1,4 @@
+//program to check the palindrome or not//
 #include <stdio.h>
 #include <string.h>
 int main(void) {
