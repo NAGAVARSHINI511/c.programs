@@ -1,3 +1,4 @@
+//string length//
 #include <stdio.h>
 int length(char s[100]);
 int main(void) {
