@@ -13,8 +13,8 @@ int main(void) {
       scanf("%d", &A[i][j]);
       sum = sum + A[i][j] * A[i][j];
     }
-  }                            #make sure it is a square matrix
-  normal = sqrt(sum);          #normal of matrix is sum of squares of each element in an matrix
+  }                            //make sure it is a square matrix
+  normal = sqrt(sum);          //normal of matrix is sum of squares of each element in an matrix
   printf("The normal of the given matrix is = %.2f\n", normal);
   for (i = 0; i < n; ++i) {
     trace = trace + A[i][i];   #trace is the sum of diagonal elements of an matrix 
