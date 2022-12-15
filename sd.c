@@ -1,3 +1,4 @@
+//program to find standarad deviation using  pointers//
 #include <stdio.h>
 #include<math.h>
 
