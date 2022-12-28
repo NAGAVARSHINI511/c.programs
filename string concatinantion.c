@@ -1,3 +1,4 @@
+//program to concatinate string without using string.h
 #include <stdio.h>
 
 int main(void) {
