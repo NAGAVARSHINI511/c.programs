@@ -10,7 +10,7 @@ int main(void) {
   while (str1[i] != '\0')
     i++;
   while (str2[j] != '\0') {
-    str1[i] = str2[j];       #string concatination is nothing but joining or clubing 2 strings into a single string
+    str1[i] = str2[j];       //string concatination is nothing but joining or clubing 2 strings into a single string
     j++;
     i++;
   }
