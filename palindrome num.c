@@ -6,6 +6,8 @@ int main(void) {
   printf("Enter the number:\n");
   scanf("%d", &num);
   printf("The reversed number is:\n");
+  
+  //reversing number
   while (num != 0) {
     temp = num % 10;
     printf("%d", temp);
