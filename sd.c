@@ -23,7 +23,7 @@ int main(void) {
     sumvar = sumvar + (pow((*ptr - mean), 2));
     ptr++;
   }
-  var = sumvar / n;   
+  var = sumvar / n;   //varience
   sd = sqrt(var);    //standard deviation
   printf("sun=%f\n", sum);
   printf("mean=%f\n", mean);
