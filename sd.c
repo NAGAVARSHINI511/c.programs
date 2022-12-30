@@ -17,14 +17,14 @@ int main(void) {
     sum = sum + *ptr;
     ptr++;
   }
-  mean = sum / n;
+  mean = sum / n;    
   ptr = a;
   for (i = 0; i < n; i++) {
     sumvar = sumvar + (pow((*ptr - mean), 2));
     ptr++;
   }
-  var = sumvar / n;
-  sd = sqrt(var);
+  var = sumvar / n;   
+  sd = sqrt(var);    //standard deviation
   printf("sun=%f\n", sum);
   printf("mean=%f\n", mean);
   printf("standarad deviation=%f\n", sd);
