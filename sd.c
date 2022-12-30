@@ -17,7 +17,7 @@ int main(void) {
     sum = sum + *ptr;
     ptr++;
   }
-  mean = sum / n;    
+  mean = sum / n;    //mean
   ptr = a;
   for (i = 0; i < n; i++) {
     sumvar = sumvar + (pow((*ptr - mean), 2));
