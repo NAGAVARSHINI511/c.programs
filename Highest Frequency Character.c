@@ -1,3 +1,4 @@
+//Highest Frequency Character//
 #include <stdio.h>
 #include <string.h>
  
