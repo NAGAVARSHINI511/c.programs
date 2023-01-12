@@ -1,4 +1,4 @@
-//Demonstrate the Dynamic Memory Allocation for Structure//
+// Program to Demonstrate the Dynamic Memory Allocation for Structures//
 #include <stdio.h>
 #include <stdlib.h>
 struct course {
