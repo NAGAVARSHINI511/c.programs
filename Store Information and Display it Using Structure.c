@@ -1,4 +1,4 @@
-//Store Information and Display information it Using Structure//
+//Store Information and Display information it Using Structures//
 #include <stdio.h>
 struct student {
     char name[50];
