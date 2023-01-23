@@ -1,4 +1,4 @@
-//SGPA Calculator//
+//SGPA Calculator
 #include <stdio.h>
 
 int main(void) {
