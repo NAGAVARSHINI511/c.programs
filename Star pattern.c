@@ -1,4 +1,4 @@
-//Plus Star Pattern Program In C Using For Loop 
+//Plus Star Pattern Program In C Using For Loop //
 #include <stdio.h> 
 #include <conio.h>
 
