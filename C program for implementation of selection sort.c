@@ -1,4 +1,4 @@
-// C Program for implementation of selection sort//
+// C Program for implementation of selection sort
 #include <stdio.h>
 
 void swap(int *xp, int *yp)
