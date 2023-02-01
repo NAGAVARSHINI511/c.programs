@@ -1,4 +1,4 @@
-//program to swap string//
+//program to swap string
 #include <stdio.h>
 #include <string.h>
 
