@@ -1,4 +1,4 @@
-//palindrome of a numer
+//palindrome of a number
 #include <stdio.h>
 
 int main() {
