@@ -1,4 +1,4 @@
-//trace and normal of matrix//
+//trace and normal of matrix
 #include <stdio.h>
 #include<math.h>
 
