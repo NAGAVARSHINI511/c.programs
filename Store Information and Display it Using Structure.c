@@ -1,6 +1,6 @@
 //Store Information and Display information it Using Structures
 #include <stdio.h>
-struct student {
+struct student { //structure defination
     char name[50];
     int roll;
     float marks;
