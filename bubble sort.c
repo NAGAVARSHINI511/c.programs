@@ -1,4 +1,4 @@
-//Program to sort the elements using bubble sort//
+//Program to sort the elements using bubble sort
 #include<stdio.h>
 void main()
 {
