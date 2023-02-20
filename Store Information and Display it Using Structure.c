@@ -4,7 +4,7 @@ struct student { //structure defination
     char name[50];
     int roll;
     float marks;
-} s;
+} s;//variable for structure
 
 int main() {
     printf("Enter information:\n");
