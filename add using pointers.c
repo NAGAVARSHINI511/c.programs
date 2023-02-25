@@ -1,4 +1,4 @@
-//Program to add using pointers//
+//Program to add using pointers
 #include <stdio.h>
 #include<math.h>
 void update(int *a,int *b) {
