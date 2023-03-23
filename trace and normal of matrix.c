@@ -20,6 +20,7 @@ int main(void) {
   for (i = 0; i < n; ++i) {
     trace = trace + A[i][i];   #trace is the sum of diagonal elements of an matrix 
   }
-  printf("Trace of the matrix is = %d\n", trace);
+  printf("Trace of the matrix is = %d\n", trace);//trace
+  
   
 }
