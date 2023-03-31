@@ -11,7 +11,7 @@ int main(void) {
       for(space=0;space<=n-i;space++)     //this for loop is to print space    
       
           printf(" ");
-          for(j=0;j<=i;j++)             //this for loop is to print the num 
+          for(j=0;j<=i;j++)             //this for loop is to print the number
             {
             if(j==0||i==0)
               coef=1;
