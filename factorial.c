@@ -1,4 +1,4 @@
-//factoial program
+//factoial program using recursion
 #include <stdio.h>
 
 int main(void) {
