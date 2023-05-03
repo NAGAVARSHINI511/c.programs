@@ -2,8 +2,7 @@
 #include <stdio.h>
 #define N 4
 
-// This function adds A[][] and B[][],
-// and stores the result in C[][]
+// This function adds A[][] and B[][], and stores the result in C[][]
 void add(int A[][N], int B[][N],
 		int C[][N])
 {
