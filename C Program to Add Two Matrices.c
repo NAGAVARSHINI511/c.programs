@@ -1,4 +1,4 @@
-//C Program to add 2 Matrices to implement the above approach is given //
+//C Program to add 2 Matrices to implement the above approach is given below//
 #include <stdio.h>
 #define N 4
 
