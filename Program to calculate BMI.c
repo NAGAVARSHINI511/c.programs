@@ -1,4 +1,5 @@
-//Program to calculate BMI //body mass index
+//Program to calculate BMI 
+//body mass index
 #include <stdio.h>
 int main()
 {
